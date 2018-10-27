@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Created by zgc on 2018/10/27.
  *
  */
-public class BubbleSort {
+public class SortBubble {
     public static void main(String[] args) {
     int[] array = new int[]{9,8,7,4,3,0,1};
         System.out.println("排序之前--》 "+Arrays.toString(array));
